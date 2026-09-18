@@ -107,7 +107,7 @@ public:
 int main() {
     int n;
     if (!(cin >> n)) return 0;
-
+  
     Sort<int> a(n);
     a.input();
 
